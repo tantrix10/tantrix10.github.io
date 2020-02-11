@@ -11,9 +11,9 @@ title                    : "Somerset optimized"
 title_separator          : "-"
 name                     : &name "Jamie Friel"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tantrix10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tantrix10/tantrix10.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   focusing on magnetic field sensing and optimal control. In my spare time I play various games (chess, M:tG and poker) and do 
   sports (climbing, powerlifting and running), always looking for a puzzle to solve!"
   location         : "Coventry"
-  employer         : 
+  employer         : The University of Warwick
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6fBlGyYAAAAJ&hl=en&oi=ao"
   email            : jamiefriel@protonmail.com
