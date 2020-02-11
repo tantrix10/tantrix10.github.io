@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Somerset optimized"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jamie Friel"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,10 +86,10 @@ author:
   focusing on magnetic field sensing and optimal control. In my spare time I play various games (chess, M:tG and poker) and do 
   sports (climbing, powerlifting and running), always looking for a puzzle to solve!"
   location         : "Coventry"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6fBlGyYAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : jamiefriel@protonmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
