@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Somerset optimized"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Jamie Friel"
   avatar           : "me.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Building up my personal website thanks to the academic pages template! I'm a quantum information theory PhD student
+  focusing on magnetic field sensing and optimal control. In my spare time I play various games (chess, M:tG and poker) and do 
+  sports (climbing, powerlifting and running), always looking for a puzzle to solve!"
   location         : "Coventry"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
