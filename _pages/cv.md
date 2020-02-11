@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* MMath in Mathematics, Aberystwyth University, 2012-2016, 1st(hons)
+* Msc in Physics, The University of Warwick, 2016-2017, Merit
+* Ph.D in Quantum Information Theory, The University of Warwick, 2017-2020 (expected october finish)
+<!---
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -26,15 +26,19 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+--->
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematics
+* Problem solving
+* Analytics
+* Programming langauges
+  * Python
+  * C++
+  * Rust
+  * Mathematica (if you count this as a programming langauge...)
+* Communication
+* Algorithms
 
 Publications
 ======
