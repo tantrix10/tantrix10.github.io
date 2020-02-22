@@ -18,10 +18,10 @@ Education
 Skills
 ======
 * Mathematics
-   *Linear Algebra
-   *Differential Geometry
-   *Quantum Information Theory
-   *Parameter Estimation
+  *Linear Algebra
+  *Differential Geometry
+  *Quantum Information Theory
+  *Parameter Estimation
 * Problem solving
 * Analytics
 * Programming langauges

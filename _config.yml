@@ -211,19 +211,19 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _hobbies
   - scope:
       path: ""
-      type: teaching
+      type: hobbies
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _academic
   - scope:
       path: ""
-      type: publications
+      type: academic
     values:
       layout: single
       author_profile: true
@@ -238,10 +238,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _code
   - scope:
       path: ""
-      type: talks
+      type: code
     values:
       layout: talk
       author_profile: true
