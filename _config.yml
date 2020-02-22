@@ -177,16 +177,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  hobbies:
     output: true
     permalink: /:collection/:path/
-  publications:
+  acdemic:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  code:
     output: true
     permalink: /:collection/:path/
 
