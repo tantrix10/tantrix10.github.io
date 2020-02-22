@@ -37,7 +37,7 @@ Publications
 Talks
 ======
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-code-cv.html %}
   {% endfor %}</ul>
   
 Teaching
