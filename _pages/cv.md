@@ -18,6 +18,10 @@ Education
 Skills
 ======
 * Mathematics
+   *Linear Algebra
+   *Differential Geometry
+   *Quantum Information Theory
+   *Parameter Estimation
 * Problem solving
 * Analytics
 * Programming langauges
@@ -28,24 +32,25 @@ Skills
 * Communication
 * Algorithms
 
-Publications
+
+Projects
+----
+
+Academic
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Code
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-code-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Hobbies
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
