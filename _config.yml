@@ -180,7 +180,7 @@ collections:
   hobbies:
     output: true
     permalink: /:collection/:path/
-  acdemic:
+  academic:
     output: true
     permalink: /:collection/:path/
   portfolio:
