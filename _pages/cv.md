@@ -25,12 +25,26 @@ Skills
 * Problem solving
 * Analytics
 * Programming langauges
-  * Python
-  * C++
-  * Rust
+  * Python, 4 years experiance
+  * C++, 1 year experiance
+  * Rust, <1 year experiance
   * Mathematica (if you count this as a programming langauge...)
 * Communication
 * Algorithms
+
+Achievments
+====
+* Black belt Tae-Kwon Do (2007)
+* British university chess championship shield (third division) champions (2015)
+* Aberystwyth Scholarship, unconditional offer based on entrance exam (2012)
+* Founder (Treasurer and then Vice-President) Aberystwyth University Chess society (2013- 2016)
+  * Undefeated in varsity against Bangor University 2013-2016
+
+
+Teaching
+===
+* Undergraduate Mathematics demonstrator, Aberystwyth (2016)
+* Undergraduate Electronics labs demonstrator, Warwick (2017- now)
 
 
 Projects
@@ -38,19 +52,19 @@ Projects
 
 Academic
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.academic %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Code
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.code %}
     {% include archive-single-code-cv.html %}
   {% endfor %}</ul>
   
 Hobbies
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.hobbies %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
