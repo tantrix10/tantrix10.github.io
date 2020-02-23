@@ -4,7 +4,7 @@ collection: hobbies
 type: "Sports"
 permalink: /hobbies/running
 venue: "assorted pavements"
-date: 2020
+date: 2020-02-23
 location: "Country"
 ---
 

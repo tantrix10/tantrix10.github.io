@@ -4,7 +4,7 @@ collection: hobbies
 type: "Games"
 permalink: /hobbies/chess
 venue: "assorted chess clubs"
-date: 2020
+date: 2020-02-23
 location: "Country"
 ---
 

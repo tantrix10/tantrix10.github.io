@@ -4,7 +4,7 @@ collection: hobbies
 type: "Sport"
 permalink: /hobbies/powerlifting
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2020-02-23
 location: "City, Country"
 ---
 
