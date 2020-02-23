@@ -3,7 +3,7 @@ title: "Powerlifting"
 collection: hobbies
 type: "Sport"
 permalink: /hobbies/powerlifting
-venue: "University 1, Department"
+venue: "The Gym"
 date: 2020-02-23
 location: "City, Country"
 ---
