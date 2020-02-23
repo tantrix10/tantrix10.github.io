@@ -35,10 +35,11 @@ Skills
 Achievments
 ====
 * Black belt Tae-Kwon Do (2007)
-* British university chess championship shield (third division) champions (2015)
 * Aberystwyth Scholarship, unconditional offer based on entrance exam (2012)
+* British university chess championship shield (third division) champions (2015)
 * Founder (Treasurer and then Vice-President) Aberystwyth University Chess society (2013- 2016)
   * Undefeated in varsity against Bangor University 2013-2016
+* QuHacked quantum machine learning hackathon, winner (2019)
 
 
 Teaching
