@@ -8,13 +8,13 @@ date: 2020-02-23
 location: "Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I enjoy playing M:tG and poker and am also learning to play bridge. Here I will upload some hand anlysis, tournament results and maybe some blog posts on these topics. 
 
-Heading 1
+Magic: the Gathering
 ======
 
-Heading 2
+Poker
 ======
 
-Heading 3
+Bridge
 ======

@@ -7,6 +7,10 @@ venue: "The Gym"
 date: 2020-02-23
 location: "City, Country"
 ---
+Similar to climbing and running I will use this to document my training progress. There will be some plots of 1-rep maxes once I set enough for that graph to be meaningful! I will also soon upload the current graphs of my training weights. 
+
+I am currently training on the 5x5 strong lifts program, but am considering the Calgary barbell 16 week program.
+
 
 This is a description of a teaching experience. You can use markdown like any other post.
 <canvas id="myChart" width="400" height="400"></canvas>
